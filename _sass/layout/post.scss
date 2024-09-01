@@ -368,3 +368,29 @@ header {
     margin-right: -0.5rem;
   }
 }
+
+//--------  By jamesKim9509 -------------
+@font-face {
+  font-family: 'GowunBatang-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.md-content, .md-title, .md-sub{
+  font-family: 'GowunBatang-Regular';
+}
+
+.md-content{
+  font-size: medium;
+}
+
+.md-sub{
+  font-size: large;
+  font-weight: bold;
+}
+
+.md-title{
+  font-size: x-large;
+  font-weight: bold;
+}
