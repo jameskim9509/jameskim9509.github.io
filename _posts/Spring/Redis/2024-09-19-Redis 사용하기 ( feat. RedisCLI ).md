@@ -1,5 +1,5 @@
 ---
-title: Redis 사용하기
+title: Redis 사용하기 ( feat. RedisCLI )
 categories: [스프링, Redis]
 tags: [대용량 트래픽]
 description: ""
@@ -134,3 +134,8 @@ Rate limiters. In particular, you can use a sorted set to build a sliding-window
 <div class="img-box">
 <img src="/assets/img/Redis/Redis 사용하기/RedisHyperLogLog.png" width="70%" height="70%" alt="RedisConnect">
 </div>   
+
+<span class="md-refs"> refs:   
+"백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 & 트래픽 처리 초격차 패키지"  [\< fastCampus \>](https://fastcampus.co.kr/)   
+"Redis 공식 사이트" [\< Redis Docs \>](https://redis.io/docs/latest/develop/) 
+</span>
